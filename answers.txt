@@ -6,4 +6,6 @@ Answer: Git helps track changes in code, collaborate with others, and serves as 
 Q2: What field could data science be applied to? Give an Example.
 Answer: Identification and prediction of diseases.
 
+Q3: What is the difference between Merging and Rebasing?
+Answer: Merging combines the histories of two branches without altering their commit order, while rebasing rewrites commits from one branch onto another for a cleaner, linear history.
 
