@@ -9,3 +9,6 @@ Answer: Identification and prediction of diseases.
 Q3: What is the difference between Merging and Rebasing?
 Answer: Merging combines the histories of two branches without altering their commit order, while rebasing rewrites commits from one branch onto another for a cleaner, linear history.
 
+Q4: What are you looking forward to this semester?
+Answer: Learning about data management systems and statistical data analysis.
+
